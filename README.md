@@ -168,3 +168,49 @@ The tray icon is defined in `avis_tray.rc` and `resource.h`. You can replace it 
 
 ## 🚀 Conclusion
 With AVIS Tray Menu, you can build a personalized launcher that lives in your system tray. All customization happens in `menu.json`, so you don’t need to touch the code once it’s compiled. Swap icons, add shortcuts, and organize your workflow exactly how you want.
+
+
+---
+
+## ⚖️ Legal Notice
+
+### 📜 Copyright & License
+AVIS Tray Menu © 2026 Demon (Tela Tran).  
+All rights reserved unless otherwise stated.
+
+This software is distributed for educational and personal use. You may compile, modify, and use the source code for your own projects, provided that:
+- You retain this copyright notice in all copies or substantial portions of the software.
+- You do not sell or redistribute the compiled binary without permission.
+
+If you plan to publish modified versions or include AVIS Tray Menu in commercial software, please contact the author for written consent.
+
+---
+
+### 🧩 Third‑Party Components
+This project uses **cJSON** for JSON parsing, which is licensed under the MIT License.  
+All other trademarks, product names, and company names mentioned in the menu examples (e.g., Microsoft, GitHub, Discord) are property of their respective owners.
+
+---
+
+### 🔒 Disclaimer
+This software is provided “as is,” without warranty of any kind, express or implied.  
+The author assumes no responsibility for any damage, data loss, or system instability resulting from use or misuse of this program.
+
+By compiling and running AVIS Tray Menu, you acknowledge that:
+- You are responsible for verifying the safety of any commands or executables referenced in your `menu.json`.
+- You understand that launching system utilities or third‑party applications through this menu is done at your own risk.
+
+---
+
+### 🧠 Intellectual Property
+The **Fire & Ice icon** and **AVIS Tray Menu banner** are original AI‑generated artworks created for this project.  
+They may be used freely for non‑commercial documentation, tutorials, and promotional materials related to AVIS Tray Menu.  
+For commercial use, please request permission from the author.
+
+---
+
+### 🪪 Attribution
+If you share or fork this project, please include the following attribution line in your README:
+
+> Built with AVIS Tray Menu © 2026 Demon (Tela Tran)
+
