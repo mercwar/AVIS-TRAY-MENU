@@ -1,0 +1,690 @@
+{
+  "items": [
+    {
+      "submenu": [
+        {
+          "command": "notepad.exe",
+          "text": "Notepad"
+        },
+        {
+          "command": "calc.exe",
+          "text": "Calculator"
+        },
+        {
+          "command": "mspaint.exe",
+          "text": "Paint"
+        },
+        {
+          "command": "snippingtool.exe",
+          "text": "Snipping Tool"
+        },
+        {
+          "command": "write.exe",
+          "text": "WordPad"
+        },
+        {
+          "command": "explorer.exe shell:AppsFolder\\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App",
+          "text": "Sticky Notes"
+        },
+        {
+          "command": "charmap.exe",
+          "text": "Character Map"
+        },
+        {
+          "command": "psr.exe",
+          "text": "Steps Recorder"
+        },
+        {
+          "command": "osk.exe",
+          "text": "On-Screen Keyboard"
+        },
+        {
+          "command": "magnify.exe",
+          "text": "Magnifier"
+        },
+        {
+          "command": "\"C:\\Program Files\\Notepad++\\notepad++.exe\"",
+          "text": "Hex Editor (Notepad++)"
+        },
+        {
+          "command": "quickassist.exe",
+          "text": "Quick Assist"
+        }
+      ],
+      "text": "Tools"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com",
+          "text": "MERCWAR AI Home"
+        },
+        {
+          "command": "cmd.exe /c start https://byethost3.com",
+          "text": "Avis-Surface"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com/AVIS-DATALAKE",
+          "text": "Avis-Datalake"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com/RRU-AI/SEARCH/index.php",
+          "text": "Avis-Search"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com/AVIS-NEWS/index.php",
+          "text": "Avis-News"
+        },
+        {
+          "command": "cmd.exe /c start https://byethost3.com",
+          "text": "Fire-Player"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com/RRU-AI/BLOG/index.php",
+          "text": "Fire-Blog"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com/RRP/fire-call.php",
+          "text": "Fire-Call"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar01.byethost3.com/MWSG",
+          "text": "Mercwar AI Stargate"
+        },
+        {
+          "command": "cmd.exe /c start https://mercwar.github.io/Constellation/index.html",
+          "text": "Cyborg Git Browser"
+        },
+        {
+          "command": "cmd.exe /c start https://github.com/mercwar",
+          "text": "Mercwar GitHub"
+        }
+      ],
+      "text": "MERCWAR AI Portal"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /c start https://facebook.com",
+          "text": "Facebook"
+        },
+        {
+          "command": "cmd.exe /c start https://blogger.com",
+          "text": "Blogger"
+        },
+        {
+          "command": "cmd.exe /c start https://wordpress.com",
+          "text": "WordPress Reader"
+        },
+        {
+          "command": "cmd.exe /c start https://www.reddit.com",
+          "text": "Reddit"
+        },
+        {
+          "command": "cmd.exe /c start https://byethost3.com",
+          "text": "MERCWAR Forum Support"
+        },
+        {
+          "command": "cmd.exe /c start https://opera.com",
+          "text": "Opera GX Gaming Web"
+        },
+        {
+          "command": "cmd.exe /c start https://x.com",
+          "text": "X (Twitter)"
+        },
+        {
+          "command": "cmd.exe /c start https://linkedin.com",
+          "text": "LinkedIn"
+        },
+        {
+          "command": "cmd.exe /c start https://instagram.com",
+          "text": "Instagram"
+        },
+        {
+          "command": "cmd.exe /c start https://pinterest.com",
+          "text": "Pinterest"
+        },
+        {
+          "command": "cmd.exe /c start https://tumblr.com",
+          "text": "Tumblr Dashboard"
+        },
+        {
+          "command": "cmd.exe /c start https://medium.com",
+          "text": "Medium Feed"
+        }
+      ],
+      "text": "Web & Socials"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /c start https://github.com",
+          "text": "GitHub Repositories"
+        },
+        {
+          "command": "cmd.exe /c start https://google.com",
+          "text": "Google Drive"
+        },
+        {
+          "command": "cmd.exe /c start https://live.com",
+          "text": "OneDrive"
+        },
+        {
+          "command": "cmd.exe /c start https://dropbox.com",
+          "text": "Dropbox"
+        },
+        {
+          "command": "cmd.exe /c start https://mega.nz",
+          "text": "Mega"
+        },
+        {
+          "command": "cmd.exe /c start https://nextcloud.com",
+          "text": "Nextcloud Portal"
+        },
+        {
+          "command": "cmd.exe /c start https://owncloud.com",
+          "text": "OwnCloud Instance"
+        },
+        {
+          "command": "cmd.exe /c start https://seafile.com",
+          "text": "Seafile Client"
+        },
+        {
+          "command": "cmd.exe /c start https://mediafire.com",
+          "text": "MediaFire Storage"
+        }
+      ],
+      "text": "Cloud Storage"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /k sfc /scannow",
+          "text": "SFC Scan (Fix Files)"
+        },
+        {
+          "command": "cmd.exe /k Dism /Online /Cleanup-Image /CheckHealth",
+          "text": "DISM Check (Repair Image)"
+        },
+        {
+          "command": "cmd.exe /k Dism /Online /Cleanup-Image /RestoreHealth",
+          "text": "DISM Restore (Deep Fix)"
+        },
+        {
+          "command": "cmd.exe /k chkdsk C: /f /r",
+          "text": "Chkdsk (Drive Fix)"
+        },
+        {
+          "command": "rstrui.exe",
+          "text": "System Restore Wizard"
+        },
+        {
+          "command": "control.exe /name Microsoft.WindowsUpdate",
+          "text": "Windows Update Assistant"
+        },
+        {
+          "command": "mdsched.exe",
+          "text": "Windows Memory Diagnostic"
+        },
+        {
+          "command": "cmd.exe /k bcdedit",
+          "text": "Boot Configuration Editor"
+        },
+        {
+          "command": "shutdown.exe /r /o /f /t 00",
+          "text": "Automated Startup Repair"
+        }
+      ],
+      "text": "Windows Repair"
+    },
+    {
+      "submenu": [
+        {
+          "command": "C:\\Program Files (x86)\\Steam\\Steam.exe",
+          "text": "Steam"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe",
+          "text": "Epic Games"
+        },
+        {
+          "command": "C:\\Program Files\\Electronic Arts\\EA Desktop\\EA Desktop\\EADesktop.exe",
+          "text": "EA App"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\UbisoftConnect.exe",
+          "text": "Ubisoft Connect"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\GOG Galaxy\\GalaxyClient.exe",
+          "text": "GOG Galaxy"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\Battle.net\\Battle.net.exe",
+          "text": "Battle.net"
+        },
+        {
+          "command": "explorer.exe shell:AppsFolder\\Microsoft.GamingApp_8wekyb3d8bbwe!App",
+          "text": "Xbox App"
+        },
+        {
+          "command": "C:\\Program Files\\Rockstar Games\\Launcher\\Launcher.exe",
+          "text": "Rockstar Games Launcher"
+        },
+        {
+          "command": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe",
+          "text": "Riot Client"
+        },
+        {
+          "command": "explorer.exe shell:AppsFolder\\Microsoft.4297127D64EC6_8wekyb3d8bbwe!Game",
+          "text": "Minecraft Launcher"
+        }
+      ],
+      "text": "Gaming Launchers"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /c start %LocalAppData%\\Discord\\Update.exe --processStart Discord.exe",
+          "text": "Discord"
+        },
+        {
+          "command": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe",
+          "text": "OBS Studio"
+        },
+        {
+          "command": "C:\\Program Files\\TeamSpeak 3 Client\\ts3client_win64.exe",
+          "text": "TeamSpeak 3"
+        },
+        {
+          "command": "cmd.exe /c start %LocalAppData%\\Guilded\\Update.exe --processStart Guilded.exe",
+          "text": "Guilded"
+        },
+        {
+          "command": "cmd.exe /c start %AppData%\\TwitchStudio\\TwitchStudio.exe",
+          "text": "Twitch Studio"
+        },
+        {
+          "command": "C:\\Program Files\\Streamlabs Desktop\\Streamlabs Desktop.exe",
+          "text": "Streamlabs Desktop"
+        },
+        {
+          "command": "%AppData%\\Zoom\\bin\\Zoom.exe",
+          "text": "Zoom"
+        },
+        {
+          "command": "C:\\Program Files\\Mumble\\mumble.exe",
+          "text": "Mumble"
+        },
+        {
+          "command": "cmd.exe /c start %LocalAppData%\\slack\\slack.exe",
+          "text": "Slack"
+        },
+        {
+          "command": "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe",
+          "text": "Telegram Desktop"
+        },
+        {
+          "command": "explorer.exe shell:AppsFolder\\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
+          "text": "WhatsApp"
+        },
+        {
+          "command": "cmd.exe /c start %LocalAppData%\\Element\\Element.exe",
+          "text": "Element (Matrix Client)"
+        }
+      ],
+      "text": "Comms & Streaming"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /k ipconfig /flushdns",
+          "text": "Flush DNS Cache"
+        },
+        {
+          "command": "cmd.exe /k ping 8.8.8.8 -t",
+          "text": "Ping Core (Google)"
+        },
+        {
+          "command": "cmd.exe /k ping 1.1.1.1 -t",
+          "text": "Ping Core (Cloudflare)"
+        },
+        {
+          "command": "ncpa.cpl",
+          "text": "Network Connections"
+        },
+        {
+          "command": "control.exe powercfg.cpl",
+          "text": "Power Options"
+        },
+        {
+          "command": "dxdiag.exe",
+          "text": "DirectX Diagnostic"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\MSI Afterburner\\MSIAfterburner.exe",
+          "text": "MSI Afterburner"
+        },
+        {
+          "command": "C:\\Program Files\\TCPOptimizer\\TCPOptimizer.exe",
+          "text": "TCP Optimizer"
+        },
+        {
+          "command": "C:\\Program Files\\Process Lasso\\processlasso.exe",
+          "text": "Process Lasso"
+        },
+        {
+          "command": "cmd.exe /c start nvcplui.exe",
+          "text": "NVIDIA Control Panel"
+        },
+        {
+          "command": "cmd.exe /c start rsui.exe",
+          "text": "AMD Software"
+        }
+      ],
+      "text": "Gaming Optimization"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /c start %LocalAppData%\\GitHubDesktop\\GitHubDesktop.exe",
+          "text": "GitHub Desktop"
+        },
+        {
+          "command": "C:\\Program Files\\Git\\bin\\bash.exe",
+          "text": "Git Bash"
+        },
+        {
+          "command": "C:\\Program Files\\Git\\cmd\\git-gui.exe",
+          "text": "Git GUI"
+        },
+        {
+          "command": "cmd.exe /c start %LocalAppData%\\gitkraken\\Update.exe --processStart gitkraken.exe",
+          "text": "GitKraken"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\Atlassian\\Sourcetree\\Sourcetree.exe",
+          "text": "SourceTree"
+        },
+        {
+          "command": "cmd.exe /k lazygit",
+          "text": "LazyGit (Terminal)"
+        },
+        {
+          "command": "C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc.exe",
+          "text": "TortoiseGit"
+        },
+        {
+          "command": "notepad.exe %USERPROFILE%\\.bashrc",
+          "text": "Git Bash Profile Config"
+        },
+        {
+          "command": "cmd.exe /k git config --global --edit",
+          "text": "Global Git Config Editor"
+        }
+      ],
+      "text": "GitHub & Git Dev"
+    },
+    {
+      "submenu": [
+        {
+          "command": "wt.exe",
+          "text": "Windows Terminal"
+        },
+        {
+          "command": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+          "text": "Visual Studio Code"
+        },
+        {
+          "command": "wsl.exe nvim",
+          "text": "Neovim (wsl)"
+        },
+        {
+          "command": "C:\\Program Files\\Docker\\Docker\\Docker Desktop.exe",
+          "text": "Docker Desktop"
+        },
+        {
+          "command": "python.exe",
+          "text": "Python REPL"
+        },
+        {
+          "command": "node.exe",
+          "text": "Node.js REPL"
+        },
+        {
+          "command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+          "text": "Visual Studio Community"
+        },
+        {
+          "command": "C:\\Program Files\\Sublime Text\\sublime_text.exe",
+          "text": "Sublime Text"
+        },
+        {
+          "command": "C:\\Program Files\\JetBrains\\IntelliJ IDEA\\bin\\idea64.exe",
+          "text": "IntelliJ IDEA"
+        },
+        {
+          "command": "C:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
+          "text": "Android Studio"
+        },
+        {
+          "command": "powershell_ise.exe",
+          "text": "PowerShell ISE"
+        },
+        {
+          "command": "wsl.exe",
+          "text": "WSL Default Terminal"
+        }
+      ],
+      "text": "IDE & Terminals"
+    },
+    {
+      "submenu": [
+        {
+          "command": "taskmgr.exe",
+          "text": "Task Manager"
+        },
+        {
+          "command": "devmgmt.msc",
+          "text": "Device Manager"
+        },
+        {
+          "command": "resmon.exe",
+          "text": "Resource Monitor"
+        },
+        {
+          "command": "perfmon.msc",
+          "text": "Performance Monitor"
+        },
+        {
+          "command": "msinfo32.exe",
+          "text": "System Info"
+        },
+        {
+          "command": "C:\\Program Files\\CPUID\\HWMonitor\\HWMonitor.exe",
+          "text": "HWMonitor"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\FinalWire\\AIDA64\\aida64.exe",
+          "text": "AIDA64 Engineer"
+        },
+        {
+          "command": "C:\\Program Files\\Core Temp\\Core Temp.exe",
+          "text": "Core Temp"
+        },
+        {
+          "command": "C:\\Program Files\\GPU-Z\\GPU-Z.exe",
+          "text": "GPU-Z"
+        },
+        {
+          "command": "C:\\Program Files\\CPUID\\CPU-Z\\cpuz.exe",
+          "text": "CPU-Z"
+        },
+        {
+          "command": "C:\\Program Files\\CrystalDiskInfo\\DiskInfo64.exe",
+          "text": "CrystalDiskInfo"
+        }
+      ],
+      "text": "System Hardware"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cmd.exe /k echo Welcome to AVIS Tray",
+          "text": "Command Prompt"
+        },
+        {
+          "command": "powershell.exe",
+          "text": "PowerShell"
+        },
+        {
+          "command": "explorer.exe C:\\",
+          "text": "Explorer (C:)"
+        },
+        {
+          "command": "services.msc",
+          "text": "Services"
+        },
+        {
+          "command": "eventvwr.msc",
+          "text": "Event Viewer"
+        },
+        {
+          "command": "regedit.exe",
+          "text": "Registry Editor"
+        },
+        {
+          "command": "gpedit.msc",
+          "text": "Local Group Policy"
+        },
+        {
+          "command": "lusrmgr.msc",
+          "text": "Local Users and Groups"
+        },
+        {
+          "command": "taskschd.msc",
+          "text": "Task Scheduler"
+        },
+        {
+          "command": "comexp.msc",
+          "text": "Component Services"
+        },
+        {
+          "command": "secpol.msc",
+          "text": "Secpol (Local Security Policy)"
+        },
+        {
+          "command": "odbcad32.exe",
+          "text": "ODBC Data Sources"
+        }
+      ],
+      "text": "System Admin"
+    },
+    {
+      "submenu": [
+        {
+          "command": "winmine.exe",
+          "text": "Minesweeper"
+        },
+        {
+          "command": "chess.exe",
+          "text": "Chess"
+        },
+        {
+          "command": "sol.exe",
+          "text": "Solitaire"
+        },
+        {
+          "command": "mshearts.exe",
+          "text": "Hearts"
+        },
+        {
+          "command": "C:\\Program Files\\MPC-HC\\mpc-hc64.exe",
+          "text": "Classic Media Player (MPC-HC)"
+        },
+        {
+          "command": "C:\\Program Files (x86)\\Winamp\\winamp.exe",
+          "text": "Classic Winamp"
+        },
+        {
+          "command": "C:\\Games\\Pinball\\PINBALL.EXE",
+          "text": "Classic 3D Pinball"
+        },
+        {
+          "command": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+          "text": "Internet Explorer (Legacy App / Mode)"
+        },
+        {
+          "command": "C:\\RetroTools\\mspaint_xp.exe",
+          "text": "Legacy Paint (XP Engine)"
+        },
+        {
+          "command": "cmd.exe /k telnet",
+          "text": "Telnet Client"
+        },
+        {
+          "command": "cmd.exe /k ftp",
+          "text": "FTP Console Utility"
+        },
+        {
+          "command": "sndrec32.exe",
+          "text": "Classic Sound Recorder"
+        }
+      ],
+      "text": "Retro Windows"
+    },
+    {
+      "submenu": [
+        {
+          "command": "cleanmgr.exe",
+          "text": "Disk Cleanup"
+        },
+        {
+          "command": "control.exe",
+          "text": "Control Panel"
+        },
+        {
+          "command": "appwiz.cpl",
+          "text": "Programs & Features"
+        },
+        {
+          "command": "diskmgmt.msc",
+          "text": "Disk Management"
+        },
+        {
+          "command": "msconfig.exe",
+          "text": "System Configuration"
+        },
+        {
+          "command": "dfrgui.exe",
+          "text": "Drive Optimizer (Defrag)"
+        },
+        {
+          "command": "regedit.exe",
+          "text": "Registry Editor"
+        },
+        {
+          "command": "mrt.exe",
+          "text": "Malicious Software Removal"
+        },
+        {
+          "command": "systempropertiesadvanced.exe",
+          "text": "Advanced System Properties"
+        },
+        {
+          "command": "devmgmt.msc",
+          "text": "Device Manager"
+        },
+        {
+          "command": "compmgmt.msc",
+          "text": "Computer Management"
+        },
+        {
+          "command": "wscui.cpl",
+          "text": "Action Center"
+        }
+      ],
+      "text": "Utilities"
+    }
+  ]
+}
