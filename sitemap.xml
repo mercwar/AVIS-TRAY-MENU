@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/images/CVBGOD</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/.github/workflows/fire-site.yml</loc>
   </url>
   <url>
@@ -14,6 +17,45 @@
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/LICENSE</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/menu.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/favi-con.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/mwm.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/cJSON.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/resource.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.exp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.res</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU.zip</loc>
