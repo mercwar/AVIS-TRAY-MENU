@@ -1,11 +1,19 @@
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
+# 🖥️ Mercwar AVIS Tray Menu
+
 ![avis](./images/Gemini_Generated_Image_uks382uks382uks3.jpg)
 
-# AVIS Tray Menu
 
 ## 📌 Overview
 AVIS Tray Menu is a lightweight Windows utility that places a custom icon in your system tray. Clicking the icon opens a menu of shortcuts defined in a simple JSON file. You can organize tools, apps, websites, and system utilities into submenus, all without editing the program itself.
-
-
 
 
 
