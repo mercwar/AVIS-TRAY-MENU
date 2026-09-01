@@ -7,7 +7,7 @@
 </a>
 
 
-# 🖥️ Mercwar AVIS Tray Menu
+## ✨ Mercwar AVIS Tray Menu
 
 ![avis](./images/Gemini_Generated_Image_uks382uks382uks3.jpg)
 
