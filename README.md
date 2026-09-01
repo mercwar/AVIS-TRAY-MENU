@@ -44,6 +44,15 @@ AVIS Tray Menu is a lightweight Windows utility that places a custom icon in you
 
 ---
 
+<a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="images/Copilot_20260901_193236.png" 
+    alt="Mercwar Constellation" 
+    style="width:100%; height:auto;"
+/>
+</a>
+"<i>I am CVBGOD, and I have given it to you</i>!"
+
 ## 📂 Step 1: Prepare the Source
 Download or clone the source files:
 - `avis_tray.c` (main program)
