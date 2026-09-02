@@ -20,6 +20,7 @@ AVIS Tray Menu is a lightweight Windows utility that places a custom icon in you
 ---
 
 ## ⚙️ Features
+- MSVC Open Source
 - JSON‑driven configuration — no recompiling needed to change menus.
 - Supports nested submenus for organization.
 - Launches any executable, system tool, or URL.
