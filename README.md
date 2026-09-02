@@ -74,7 +74,7 @@ You need Microsoft Visual Studio (Community edition is fine) or the MSVC build t
    ```
 3. Compile:
    ```cmd
-   cl avis_tray.c cJSON.c user32.lib shell32.lib comdlg32.lib
+   cl.exe avis_tray.c cJSON.c user32.lib shell32.lib comdlg32.lib
    ```
 4. This produces `avis_tray.exe`.
 
