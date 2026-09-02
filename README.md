@@ -16,8 +16,10 @@
 AVIS Tray Menu is a lightweight Windows utility that places a custom icon in your system tray. Clicking the icon opens a menu of shortcuts defined in a simple JSON file. You can organize tools, apps, websites, and system utilities into submenus, all without editing the program itself.
 
 
+#
+Note: Required
+- Download The Free MSVC Compiler from Microsoft [here](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 
----
 
 ## ⚙️ Features
 - MSVC Open Source
