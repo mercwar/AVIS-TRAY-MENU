@@ -31,7 +31,7 @@ Note: Required
 
 
 <div style="text-align: center; margin: 24px 0;">
-    <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="[https://mercwar.github.io/Constellation/index.html](https://github.com/mercwar/ECLIPSE/)">
+    <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="https://github.com/mercwar/ECLIPSE">
     <img 
         src="https://raw.githubusercontent.com/mercwar/ECLIPSE/refs/heads/main/images/bb.jpg" 
         alt="Eclipse Gateway Interface" 
