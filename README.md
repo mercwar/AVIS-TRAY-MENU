@@ -30,7 +30,15 @@ Note: Required
 - Extendable: add internal functions by using special command IDs.
 
 
-
+<div style="text-align: center; margin: 24px 0;">
+    <a target="_self" title="CLICK HERE to ENTER the GATEWAY FREE!" href="[https://mercwar.github.io/Constellation/index.html](https://github.com/mercwar/ECLIPSE/)">
+    <img 
+        src="https://raw.githubusercontent.com/mercwar/ECLIPSE/refs/heads/main/images/bb.jpg" 
+        alt="Eclipse Gateway Interface" 
+        style="width:100%; height:auto; border-radius:12px; box-shadow:0 6px 16px rgba(0,0,0,0.6);"
+    />
+    </a>
+</div>
 
 
 ---
