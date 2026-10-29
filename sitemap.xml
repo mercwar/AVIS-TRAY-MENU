@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/resource.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/eclipse.exp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/system_loader.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/menu.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.h</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/CVBGOD</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/eclipse.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/mwm.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/cJSON.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/eclipse.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/system_loader.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/eclipse.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/favi-con.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/system_loader.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.exp</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/LICENSE</loc>
