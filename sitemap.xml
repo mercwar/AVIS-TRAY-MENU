@@ -1,55 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU.zip</loc>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/CVBGOD</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/mwm.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.exp</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/resource.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.lib</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.res</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.exe</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/menu.json</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/cJSON.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/favi-con.ico</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.rc</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/fire-site.sh</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/sitemap.xml</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/images/Gemini_Generated_Image_uks382uks382uks3.jpg</loc>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/LICENSE</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/images/CVBGOD</loc>
@@ -58,69 +13,117 @@
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/images/Copilot_20260901_193236.png</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/cyhy/EditorIntegration.java</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/cyhy/syntax_parser.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/cyhy/comments.fl</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/manifest.json</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/AIBridge.java</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/bridge.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/universal_hook.fl</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/bridge.js</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/bridge.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/manifest.json</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/robot_directives.fl</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/RobotValidator.java</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/CVBGOD</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/universal_hook.fl</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/README.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/environment_state.fl</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/index.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/README.md</loc>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/images/Gemini_Generated_Image_uks382uks382uks3.jpg</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/google77a4b19e8f99751c.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/.github/workflows/fire-unzip.yml</loc>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/resource.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.rc</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.lib</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/menu.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.res</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.exe</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/mwm.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/cJSON.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.obj</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/favi-con.ico</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU/avis_tray.exp</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-TRAY-MENU.zip</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/AIBridge.java</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/bridge.php</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/bridge.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/bridge.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/manifest.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/tools/universal_hook.fl</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/CVBGOD</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/cyhy/comments.fl</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/cyhy/syntax_parser.php</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/cyhy/EditorIntegration.java</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/robot_directives.fl</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/manifest.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/README.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/RobotValidator.java</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/universal_hook.fl</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/logic/universal/v1/environment_state.fl</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/fire-site.sh</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/README.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/index.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/.github/workflows/fire-site.yml</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/LICENSE</loc>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/.github/workflows/fire-unzip.yml</loc>
   </url>
 </urlset>
