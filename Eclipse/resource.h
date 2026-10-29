@@ -1,0 +1,2 @@
+#define IDI_APP_ICON 101
+#define AVIS_WM_TRAYICON (WM_USER + 100)

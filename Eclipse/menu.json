@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "text": "Test dc2url",
+      "command": "cmd.exe /k dc2url.exe http://httpbin.org/get"
+    },
+    {
+      "text": "Notepad",
+      "command": "notepad.exe"
+    },
+    {
+      "text": "Calculator",
+      "command": "calc.exe"
+    }
+  ]
+}
