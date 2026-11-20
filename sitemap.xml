@@ -112,6 +112,9 @@
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/images/Gemini_Generated_Image_uks382uks382uks3.jpg</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/.gitmodules</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/Eclipse/avis_tray.lib</loc>
   </url>
   <url>
@@ -188,9 +191,6 @@
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/fire-site.sh</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/AVIS-DATALAKE.md</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/AVIS-TRAY-MENU/blob/main/.github/workflows/fire-site.yml</loc>
